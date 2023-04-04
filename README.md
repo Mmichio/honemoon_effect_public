@@ -7,10 +7,10 @@ The data is ids of about 6.6M tweets.
 
 If you use this data, please cite our paper properly.
 ```
-@article{miyazaki2022political,
+@article{miyazaki2023political,
   title={Political Honeymoon Effect on Social Media: Characterizing Social Media Reaction to the Changes of Prime Minister in Japan},
   author={Miyazaki, Kunihiro and Murayama, Taichi and Matsui, Akira and Nishikawa, Masaru and Uchiba, Takayuki and Kwak, Haewoon and An, Jisun},
-  journal={arXiv preprint arXiv:2212.02827},
-  year={2022}
+  journal={ACM WebSci},
+  year={2023}
 }
 ```
